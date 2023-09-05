@@ -7,11 +7,13 @@ All credits to pythongosssss/ComfyUI-Custom-Scripts ```https://github.com/python
 Custom node for ComfyUI that I moded from the String Function from ComfyUI-Custom-Scripts.  It allows one to plug more stuff into the original function. 
 -----------
 Original:
+-----------
 ![SDXL Prompt Styler Screenshot](example/treeori.png)
-
+-----------
 My modded version:
+-----------
 ![SDXL Prompt Styler Screenshot](example/tree.png)0
-
+-----------
 
 This command clones the SDXL Prompt Styler repository into your `ComfyUI/custom_nodes/` directory. You should now be able to access and use the nodes from this repository.
 
