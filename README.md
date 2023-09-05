@@ -12,10 +12,8 @@ Original:
 -----------
 My modded version:
 -----------
-![SDXL Prompt Styler Screenshot](example/tree.png)0
+![SDXL Prompt Styler Screenshot](example/tree.png)
 -----------
-
-This command clones the SDXL Prompt Styler repository into your `ComfyUI/custom_nodes/` directory. You should now be able to access and use the nodes from this repository.
 
 ### Installation of my customized version
 1. Open a terminal or command line interface.
