@@ -19,7 +19,6 @@ My modded version:
 2. Navigate to the `ComfyUI/custom_nodes/` directory.
 3. Run the following command:
 ```git clone https://github.com/pythongosssss/ComfyUI-Custom-Scripts.git```
-4. Restart ComfyUI.
 
 Then Proceed with 
 
