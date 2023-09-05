@@ -24,4 +24,4 @@ My modded version:
 
 This command clones the repository into your `ComfyUI/custom_nodes/` directory. You should now be able to access and use the nodes from this repository.
 
-After restart you should see a new menu under the util submenu called String Function Tree - click on it and a new node will appear in your workflow
+After restart you should see a new menu under the utils submenu called String Function Tree - click on it and a new node will appear in your workflow
