@@ -38,41 +38,41 @@ class StringFunction:
     def exec(self, action, tidy_tags, text_a, text_b, text_c="", text_d="", text_e="", text_f="", text_g="", text_h="",
              text_i="", text_j="", text_k="", text_l="", text_m="", text_n="", text_o="", text_p="", text_q="", text_r=""):
         # Converted inputs are sent as the string of 'undefined' if not connected
-        if text_a == "undefined":
+        if text_a == "":
             text_a = ""
-        if text_b == "undefined":
+        if text_b == "":
             text_b = ""
-        if text_c == "undefined":
+        if text_c == "":
             text_c = ""
-        if text_d == "undefined":
+        if text_d == "":
             text_d = ""
-        if text_e == "undefined":
+        if text_e == "":
             text_e = ""
-        if text_f == "undefined":
+        if text_f == "":
             text_f = ""
-        if text_g == "undefined":
+        if text_g == "":
             text_g = ""
-        if text_h == "undefined":
+        if text_h == "":
             text_h = ""
-        if text_i == "undefined":
+        if text_i == "":
             text_i = ""
-        if text_j == "undefined":
+        if text_j == "":
             text_j = ""
-        if text_k == "undefined":
+        if text_k == "":
             text_k = ""
-        if text_l == "undefined":
+        if text_l == "":
             text_l = ""
-        if text_m == "undefined":
+        if text_m == "":
             text_m = ""
-        if text_n == "undefined":
+        if text_n == "":
             text_n = ""
-        if text_o == "undefined":
+        if text_o == "":
             text_o = ""
-        if text_p == "undefined":
+        if text_p == "":
             text_p = ""
-        if text_q == "undefined":
+        if text_q == "":
             text_q = ""
-        if text_r == "undefined":
+        if text_r == "":
             text_r = ""
 
         tidy_tags = tidy_tags == "yes"
