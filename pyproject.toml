@@ -1,0 +1,14 @@
+[project]
+name = "comfyui_string_function_tree"
+description = "This custom node provides the capability to manipulate multiple string inputs."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/wolfden/ComfyUi_String_Function_Tree"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUi_String_Function_Tree"
+Icon = ""
