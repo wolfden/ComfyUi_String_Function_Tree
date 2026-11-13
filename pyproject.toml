@@ -2,7 +2,7 @@
 name = "comfyui_string_function_tree"
 description = "This custom node provides the capability to manipulate multiple string inputs."
 version = "1.0.0"
-license = "LICENSE"
+license = { file = "LICENSE" }
 
 [project.urls]
 Repository = "https://github.com/wolfden/ComfyUi_String_Function_Tree"
