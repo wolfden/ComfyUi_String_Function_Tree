@@ -1,5 +1,6 @@
-import { $el } from "../../../../scripts/ui.js";
 import { addStylesheet } from "./utils.js";
+
+const { $el } = window.comfyAPI.ui;
 
 addStylesheet(import.meta.url);
 

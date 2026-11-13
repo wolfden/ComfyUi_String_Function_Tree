@@ -1,6 +1,7 @@
-import { $el } from "../../../../scripts/ui.js";
 import { addStylesheet, getUrl, loadImage } from "./utils.js";
 import { createSpinner } from "./spinner.js";
+
+const { $el } = window.comfyAPI.ui;
 
 addStylesheet(getUrl("lightbox.css", import.meta.url));
 

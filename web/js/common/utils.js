@@ -1,4 +1,4 @@
-import { $el } from "../../../../scripts/ui.js";
+const { $el } = window.comfyAPI.ui;
 
 export function addStylesheet(url) {
 	if (url.endsWith(".js")) {

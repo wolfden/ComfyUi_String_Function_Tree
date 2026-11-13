@@ -1,6 +1,7 @@
-import { $el, ComfyDialog } from "../../../../scripts/ui.js";
 import { api } from "../../../../scripts/api.js";
 import { addStylesheet } from "./utils.js";
+
+const { $el, ComfyDialog } = window.comfyAPI.ui;
 
 addStylesheet(import.meta.url);
 
